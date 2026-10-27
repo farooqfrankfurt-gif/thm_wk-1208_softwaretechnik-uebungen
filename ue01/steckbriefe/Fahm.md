@@ -2,7 +2,7 @@
 
 ## Studiengang und Semester
 
-Wirtschaftsinformatik B.Sc. im. Semester 
+Wirtschaftsinformatik B.Sc. im 3. Semester 
 
 ## Meine bisherige Erfahrung mit Softwareentwicklung
 
